@@ -16,6 +16,11 @@ This project allows you to generate html formatted website from markdown files
 - Make any update you want to the template.html file in the root, this will allow you to make your site have your style all over it!
 - Finally time to make it shine, run `sh main.sh` in your terminal, it should convert all your markdown files and start the server at port 8888
 
+## Improvements
+
+- Convert `[ ]` into [ ]
+- Allow nested conversions like **This is a bold sentence but also has *italic* word in it** or the inverse *Italic sentence with some **bold** word in it*
+
 # Thanks to
 
 - Boot.dev for pointing the direction on how to build this
