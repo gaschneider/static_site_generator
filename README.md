@@ -18,7 +18,7 @@ This project allows you to generate html formatted website from markdown files
 
 ## Improvements
 
-- Convert `[ ]` into [ ]
+- Convert `[ ]` into []
 - Allow nested conversions like **This is a bold sentence but also has *italic* word in it** or the inverse *Italic sentence with some **bold** word in it*
 
 # Thanks to
